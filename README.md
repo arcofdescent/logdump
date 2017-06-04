@@ -1,2 +1,2 @@
 # logdump
-Nodejs module for loggin
+Node.js module for logging
